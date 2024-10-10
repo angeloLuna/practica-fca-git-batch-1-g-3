@@ -1,0 +1,6 @@
+.cards-custom {
+  display: flex;
+  padding: 100px 0;
+  gap: 50px;
+  justify-content: space-around;
+}
